@@ -13,7 +13,7 @@
 ////Recursion function//
 
 function factorialRecursion(num){
-
+      console.log(num);
       if(num == 0){
             return 1;
       }
